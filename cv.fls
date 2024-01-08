@@ -332,13 +332,13 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Bold-osf-ot1.tfm
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Italic-osf-ot1.tfm
-OUTPUT cv.pdf
-INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-ts1.tfm
+OUTPUT cv.pdf
+INPUT /usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-ts1.vf
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-ts1--base.tfm
 INPUT cv.aux
@@ -348,6 +348,4 @@ INPUT /usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
