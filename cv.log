@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.12)  11 JAN 2024 18:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.12)  23 JAN 2024 09:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -117,14 +117,14 @@ LaTeX Info: Redefining \textulc on input line 49.
 LaTeX Info: Redefining \oldstylenums on input line 179.
 LaTeX Info: Redefining \textsw on input line 187.
 )
-LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on input line 46.
+LaTeX Font Info:    Trying to load font information for OT1+EBGaramond-OsF on input line 47.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/OT1EBGaramond-OsF.fd
 File: OT1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for OT1/EBGaramond-OsF.
 )
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 46.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 46.
+(Font)              scaled to size 10.95pt on input line 47.
  (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count198
@@ -132,20 +132,20 @@ File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 ) (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
 
 (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -203,48 +203,48 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \c@mv@tabular=\count271
 \c@mv@boldtabular=\count272
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/n' in size <20.74> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 46.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 46.
+(Font)              scaled to size 20.74pt on input line 47.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <20.74> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 46.
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 20.74pt on input line 46.
+(Font)              scaled to size 20.74pt on input line 47.
 
-Overfull \hbox (30.0pt too wide) in paragraph at lines 46--46
+Overfull \hbox (30.0pt too wide) in paragraph at lines 47--47
 [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 46.
+(Font)              <10.95> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
+(Font)              <6> on input line 47.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 52.
+(Font)              Font shape `OT1/EBGaramond-OsF/bold/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 52.
+(Font)              scaled to size 10.95pt on input line 53.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 54.
+(Font)              Font shape `OT1/EBGaramond-OsF/regular/it' tried instead on input line 55.
 LaTeX Font Info:    Font shape `OT1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 54.
-LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 67.
+(Font)              scaled to size 10.95pt on input line 55.
+LaTeX Font Info:    Trying to load font information for TS1+EBGaramond-OsF on input line 68.
 (/usr/local/texlive/2022/texmf-dist/tex/latex/ebgaramond/TS1EBGaramond-OsF.fd
 File: TS1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for TS1/EBGaramond-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `TS1/EBGaramond-OsF/regular/n' tried instead on input line 67.
+(Font)              Font shape `TS1/EBGaramond-OsF/regular/n' tried instead on input line 68.
 LaTeX Font Info:    Font shape `TS1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 67.
+(Font)              scaled to size 10.95pt on input line 68.
  [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (35.03876pt too wide) in paragraph at lines 170--176
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+Overfull \hbox (35.03876pt too wide) in paragraph at lines 171--177
 [][] 
  []
 
-[3] (./cv.aux) ) 
+[4] (./cv.aux) ) 
 Here is how much of TeX's memory you used:
  3734 strings out of 478268
  64892 string characters out of 5846347
@@ -254,10 +254,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  70i,6n,76p,496b,253s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ld6df2.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tsrvmb.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fc2mbn.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv.pdf (3 pages, 325789 bytes).
+Output written on cv.pdf (4 pages, 326051 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 25 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
