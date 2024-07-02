@@ -24,4 +24,5 @@ jobs:
     - name: Update Google Drive
       env:
         GOOGLE_DRIVE_CREDENTIALS: ${{ secrets.GOOGLE_DRIVE_CREDENTIALS }}
+        USER_EMAIL: ${{ secrets.USER_EMAIL }}
       run: python update_drive.py

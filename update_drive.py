@@ -21,6 +21,14 @@ response = drive_service.files().list(
 
 files = response.get('files', [])
 
+def set_file_permissions(file_id):
+    permission = {
+        'type': 'anyone',
+        'role': 'reader'
+    }
+    drive_service.permissions().create(fileId=file_id, body=permission).execute()
+    print(f'File permissions updated: Anyone with the link can view')
+
 if not files:
     print('File not found. Creating new file.')
     file_metadata = {
@@ -35,8 +43,10 @@ if not files:
     print(f'  Parent folder: {file.get("parents")}')
     print(f'  Web view link: {file.get("webViewLink")}')
     
+    set_file_permissions(file.get('id'))
+    
     # Share the file with your personal Google account
-    your_email = 'jack.krebsbach@colorado.edu'  
+    your_email = os.environ['USER_EMAIL']  # Read email from GitHub Secrets
     permission = {
         'type': 'user',
         'role': 'writer',
@@ -57,3 +67,7 @@ else:
         media_body=media
     ).execute()
     print(f'File updated successfully.')
+    
+    set_file_permissions(file_id)
+
+print('Script execution completed.')
